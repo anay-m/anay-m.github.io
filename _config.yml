@@ -2,7 +2,7 @@
 title               : Anay Modi
 description         : >-
                       1) Tech Builder :computer: :hammer:
-                      2) Traveler :airplane:
+                        2) Traveler :airplane:  
                       3) Movie :movie_camera: critic & Detroit sports :basketball: :football: fan
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : anay-m/anay-m.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
