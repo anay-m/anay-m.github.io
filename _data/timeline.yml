@@ -1,17 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University of Michigan CS
+  from: August 2022
+  to: May 2025
+  description: Current student at the U of Michigan's College of Engineering
+               studying Computer Science with a Math Minor. On campus, I am
+               a member of the Michigan Data Science Team & Atlas Consulting Group!
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Technology Intern, University of Michigan
+  from: May 2023
+  to: August 2023
+  description: Worked at the university's Shared Services Center, which powers many of
+               the school's financial and administrative logistics behind the scenes.
+               I worked to create and publish new APIs in the university's API directory, as well
+               develop automation solutions using scripting languages, external APIs, and third-party
+               applications.

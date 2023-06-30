@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ am a CS student at the University of Michigan who is passionate about technology, travel, sports, movies, dance, music, and more! I always want to try new things, whether that means using a new Python library or eating fried ice cream for the first time. Feel free to contact me at *anaym@umich.edu* if you ever want to chat or try something new together!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

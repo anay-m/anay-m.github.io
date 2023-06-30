@@ -1,10 +1,8 @@
 ### Site Settings ###
 title               : Anay Modi
 description         : |
-                      <p>1) Tech Builder :computer: :hammer: &nbsp;&nbsp;
-
+                      <p>1) Tech Builder :computer: :hammer: &nbsp;
                       2) Traveler :airplane: <br>
-
                       3) Movie :movie_camera: critic & sports :basketball: :football: fan </p>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : anay-m/anay-m.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
