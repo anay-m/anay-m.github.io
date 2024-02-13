@@ -5,16 +5,13 @@ image: https://image.cnbcfm.com/api/v1/image/105510204-1539707620301jobsim1.png?
 description: A VR game for CS students at the University of Michigan. Want to experience what it's like to be a CSE student? Try it out!
 ---
 
-# The Movies Project
+# Virtual Reality - CSE Simulator
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The CSE Simulator is something like **Job Simulator**, the only difference is that it simulates the experience of CS student at the University of Michigan! Completed for the EECS 498 Virtual Reality course, the CSE simulator brings the BBB computer lab to life, allowing the player to play around with the CS lifestyle in VR.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+## Demo
 
-## Search Movies
+{% include elements/video.html id="6SDxlpAewpw" %}
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+## Technologies
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
