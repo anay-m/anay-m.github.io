@@ -1,8 +1,9 @@
 ---
-name: Movie Recommendation Tool
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Virtual Reality - CSE Simulator
+tools: [Unreal Engine, C++]
+image: https://scontent.oculuscdn.com/v/t64.5771-25/75230049_361006292008462_6980935790468591782_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=CPC6UhjIP_UAX-_1e7K&_nc_ht=scontent.oculuscdn.com&oh=00_AfBuU3acCK6g5zfvNbomVJFyfcdeUNJaqLq_a_r_2mNZEA&oe=65CF7A14
+description: A VR game for CS students at the University of Michigan. Want to experience what it's 
+like to be a CSE student? Try it out!
 ---
 
 # The Movies Project
