@@ -1,9 +1,8 @@
 ---
 name: Virtual Reality - CSE Simulator
 tools: [Unreal Engine, C++]
-image: https://www.statscompass.com/wp-content/uploads/2021/02/tech-daily-wcHwSy_JE4c-unsplash-scaled.jpg
-description: A VR game for CS students at the University of Michigan. Want to experience what it's 
-like to be a CSE student? Try it out!
+image: https://image.cnbcfm.com/api/v1/image/105510204-1539707620301jobsim1.png?v=1539707641
+description: A VR game for CS students at the University of Michigan. Want to experience what it's like to be a CSE student? Try it out!
 ---
 
 # The Movies Project
