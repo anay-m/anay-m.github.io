@@ -1,7 +1,8 @@
 ---
-name: PrimeGPT1
-tools: [Python, Pinecone, LangChain, OpenAI, JavaScript, HTML, CSS]
+name: Facial Recognition
+tools: [Python, Pillow, Face-Recognition]
 image: https://www.statscompass.com/wp-content/uploads/2021/02/tech-daily-wcHwSy_JE4c-unsplash-scaled.jpg
-description: An Amazon Prime chatbot capable of helping users by answering questions about a selected Amazon product. PrimeGPT scours the product details, reviews, FAQs, and much more to learn about each product.
-external_url: https://devpost.com/software/prime-gpt
+description: A facial recognition system using machine learning techniques in Python! Want to recognize
+celebrities using AI? Try it out!
+external_url: https://github.com/devmpatel/facial_recognition
 ---
