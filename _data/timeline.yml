@@ -3,13 +3,14 @@
   to: May 2025
   description: Current student at the University of Michigan's College of Engineering
                studying Computer Science with a Math Minor. On campus, I am
-               a member of the Michigan Data Science Team & Atlas Consulting Group!
+               a member of the Michigan Data Science Team & Professor Arvind Rao's
+               "Deep Learning in Cancer" Research Team!
 
-- title: Technology Intern, University of Michigan
+- title: SWE Intern, University of Michigan
   from: May 2023
   to: August 2023
-  description: Worked at the university's Shared Services Center, which powers many of
+  description: Worked at the university's Information Technology Services, which powers many of
                the school's financial and administrative logistics behind the scenes.
                I worked to create and publish new APIs in the university's API directory, as well
-               develop automation solutions using scripting languages, external APIs, and third-party
+               develop automation solutions using JavaScript, external APIs, and third-party
                applications.

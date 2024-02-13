@@ -8,12 +8,12 @@
 
 - name: JavaScript
   percentage: 70
-  color: secondary
+  color: success
 
-- name: SQL
+- name: React JS
   percentage: 70
-  color: secondary
+  color: info
 
 - name: HTML5/CSS
   percentage: 50
-  color:
+  color: warning

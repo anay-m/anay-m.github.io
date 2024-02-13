@@ -2,6 +2,10 @@
   percentage: 80
   color: info
 
-- name: TeamDynamix
+- name: Jira
   percentage: 60
   color: success
+
+- name: Git
+  percentage: 60
+  color: danger
