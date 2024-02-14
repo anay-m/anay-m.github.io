@@ -11,7 +11,9 @@ The CSE Simulator is something like **Job Simulator**, the only difference is th
 
 ## Demo
 
-{% include elements/video.html id="6SDxlpAewpw" %}
+
+{% include elements/video.html id="axKprPAOX-c" %}
 
 ## Technologies
 
+We used Unreal Engine 5 for the development, Blueprints within UE5 for programming events specific to various characters/objects, Sketchfab for 3D models, FreeSound for SFX, and Jira for task management. Shoutout to the RTX 4080 for seamless dev experience!

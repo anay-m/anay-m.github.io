@@ -1,0 +1,10 @@
+Anay Modi website: https://anay-m.github.io/projects/vrcsesimulator
+Zain Zai Website: zain-zai.vercel.app
+
+Our custom object is a group of battle buses from the popular battle royale game "Fortnite".
+The secret to entering our custom scene is that for one certain desk, when the player clicks one
+it, it dissappears, revealing a hidden hole that leads to a seemingly empty bottom floor. However,
+upon jumping down there (our player is too curious for his own good), the evil buses turn on and
+roar, charging towards the player. The backwall warns "WATCH OUT" but alas our player has already
+sealed their fate. Upon any one of the buses colliding with the player, the game ends, exiting
+out of the whole simulation. A terrifying and unfortunate end for our hero.
