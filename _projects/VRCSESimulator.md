@@ -12,7 +12,7 @@ The CSE Simulator is something like **Job Simulator**, the only difference is th
 ## Demo
 
 
-{% include elements/video.html id="axKprPAOX-c" %}
+{% include elements/video.html id="14u2P_P4lF0" %}
 
 ## Technologies
 
