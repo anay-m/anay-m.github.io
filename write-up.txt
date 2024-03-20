@@ -1,10 +1,14 @@
-Anay Modi website: https://anay-m.github.io/projects/vrcsesimulator
+Anay Modi website: https://anay-m.github.io/projects/a2go
 Zain Zai Website: zain-zai.vercel.app
 
-Our custom object is a group of battle buses from the popular battle royale game "Fortnite".
-The secret to entering our custom scene is that for one certain desk, when the player clicks one
-it, it dissappears, revealing a hidden hole that leads to a seemingly empty bottom floor. However,
-upon jumping down there (our player is too curious for his own good), the evil buses turn on and
-roar, charging towards the player. The backwall warns "WATCH OUT" but alas our player has already
-sealed their fate. Upon any one of the buses colliding with the player, the game ends, exiting
-out of the whole simulation. A terrifying and unfortunate end for our hero.
+Our custom feature is a basketball game. Being avid bball lovers, we've always
+enjoyed basketball mini games such as imessage game pigeon, or even mobile games
+that we've tried. We thought it would be cool to have an augmented 3d version of 
+one of these so we added a basic basketball shooting mode. When the user selects 
+this, a 3d basketball hoop is projected into the air (approx. 10ft high) and a ball 
+spawns near the player. The player can then move there phone to aim and click a shoot 
+button to throw the ball towards the hoop and take a shot! Should the player have an 
+accurate shot, collision sensors will indicate that the shot was made and a sound effect 
+as well as a notification that you received 5 bucks each time you make a shot! The 
+basketball hoop costs 20 dollars to place and you get 10 balls per hop, meaning you 
+can make 50 bucks while having spent 20! Woo-hoo!
