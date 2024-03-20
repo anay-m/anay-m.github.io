@@ -1,8 +1,8 @@
 ---
-name: Virtual Reality - CSE Simulator
-tools: [Unreal Engine, C++]
+name: Augmented Reality - A2 Go
+tools: [Unity, C#, Sketchfab, Mixamo]
 image: https://image.cnbcfm.com/api/v1/image/105510204-1539707620301jobsim1.png?v=1539707641
-description: A VR game for CS students at the University of Michigan. Want to experience what it's like to be a CSE student? Try it out!
+description: An University of Michigan themed AR game. Check out UMich landmarks and more in Augmented Reality!
 ---
 
 # Augmented Reality - A2 Go
