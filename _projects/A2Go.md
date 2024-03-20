@@ -1,7 +1,7 @@
 ---
 name: Augmented Reality - A2 Go
 tools: [Unity, C#, Sketchfab, Mixamo]
-image: https://www.a2gov.org/publishingimages/color-logo.jpg
+image: https://image.cnbcfm.com/api/v1/image/105510204-1539707620301jobsim1.png?v=1539707641
 description: An Ann Arbor themed AR Game! Travel through Ann Arbor, and augment your experience with 
 digital Ann Arbor landmarks and more!
 ---
