@@ -1,7 +1,7 @@
 ---
 name: Augmented Reality - A2 Go
 tools: [Unity, C#, Sketchfab, Mixamo]
-image: a2go.png
+image: https://i.ibb.co/QKyNMt6/a2go.png
 description: An Ann Arbor themed AR Game! Travel through Ann Arbor, and augment your experience with 
 digital Ann Arbor landmarks and more!
 ---
@@ -15,7 +15,7 @@ Completed for the EECS 498 Augmented Reality course, A2 Go extends the Ann Arbor
 ## Demo
 
 
-{% include elements/video.html id="3whEBv2brLY" %}
+{% include elements/video.html id="w_6BTfNemH8" %}
 
 ## Technologies
 
