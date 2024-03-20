@@ -1,7 +1,7 @@
 ---
 name: Augmented Reality - A2 Go
 tools: [Unity, C#, Sketchfab, Mixamo]
-image: https://image.cnbcfm.com/api/v1/image/105510204-1539707620301jobsim1.png?v=1539707641
+image: https://www.a2gov.org/publishingimages/color-logo.jpg
 description: An University of Michigan themed AR game. Check out UMich landmarks and more in Augmented Reality!
 ---
 
