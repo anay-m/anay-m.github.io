@@ -1,8 +1,8 @@
 ---
-name: Augmented Reality - A2 Go
-tools: [Unity, C#, Sketchfab, Mixamo]
+name: A2 Go
+tools: [Swift, Unity, C#, Sketchfab, Mixamo]
 image: https://i.postimg.cc/HxGXT182/a2go.png
-description: An University of Michigan themed AR game. Check out UMich landmarks and more in Augmented Reality!
+description: An University of Michigan themed AR app (iOS). Check out UMich landmarks and more in Augmented Reality!
 ---
 
 # Augmented Reality - A2 Go
