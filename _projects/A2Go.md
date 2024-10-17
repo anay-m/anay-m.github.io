@@ -5,7 +5,7 @@ image: https://i.postimg.cc/HxGXT182/a2go.png
 description: An University of Michigan themed AR app (iOS). Check out UMich landmarks and more in Augmented Reality!
 ---
 
-# Augmented Reality - A2 Go
+# A2 Go
 
 Ann Arbor has declared itself “Tree City USA”, in opposition to the 100+ other cities who claim the same. Help Ann Arbor cement the title by filling the town with unique vegetation using AR, while fighting off Ann arbor squirrels, visiting University of Michigan landmarks, and taking needed breaks for physical activity (AR basketball!!).
 
