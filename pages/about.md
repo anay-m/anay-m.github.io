@@ -8,7 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
- I am a CS student at the University of Michigan who is passionate about technology, travel, sports, movies, startups, and more! I always want to try new things, whether that means building tech with a new programming language or eating fried ice cream for the first time. Feel free to contact me at [*anaym@umich.edu*](mailto:anaym@umich.edu) if you ever want to chat or try something new together!
+ I am a CS student at the University of Michigan who is passionate about building scalable tech! Currently looking for opportunities to explore software development and AI-driven fields! Feel free to contact me at [*anaym@umich.edu*](mailto:anaym@umich.edu) if you ever want to chat or build something together!
+
+ Some things I'm building right now ...
+ an iOS app called [Nostalgia](https://nostalgia-app.com) and a builder community at [V1 Michigan](https://v1michigan.com/)
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

@@ -2,18 +2,18 @@
   percentage: 80
   color: danger
 
-- name: C++
+- name: C/C++
   percentage: 80
   color:
 
-- name: JavaScript
+- name: React JS
   percentage: 70
   color: success
 
-- name: React JS
-  percentage: 70
+- name: Swift
+  percentage: 60
   color: info
 
-- name: HTML5/CSS
+- name: SQL
   percentage: 50
   color: warning

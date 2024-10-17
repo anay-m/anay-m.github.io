@@ -1,11 +1,11 @@
-- name: Microsoft Office
+- name: Linux
   percentage: 80
   color: info
 
-- name: Jira
+- name: Git
   percentage: 60
   color: success
 
-- name: Git
+- name: Jira
   percentage: 60
   color: danger
